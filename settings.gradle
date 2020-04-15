@@ -1,0 +1,5 @@
+rootProject.name='APTwoker'
+include ':app'
+include ':apt-annotation'
+include ':apt-processor'
+include ':apt-library'
